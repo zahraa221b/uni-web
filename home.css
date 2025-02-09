@@ -96,23 +96,7 @@ body,html{
             margin-bottom: 1px;
         }
         
-.learn-more {
-            background: #b22222;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            font-size: 16px;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background 0.3s ease;
-            margin-top: 6%;
-        }
-        
-.learn-more:hover {
-            background: #8b0000;
-        }  
-        
-    
+
         
         .s2{
             position:relative;
@@ -137,7 +121,7 @@ body,html{
         }
         #ppl { 
             transform: scale(0.5);
-           top:0;
+           
     
         }
         
@@ -166,9 +150,9 @@ body,html{
             border-radius: 5px;
             cursor: pointer;
             transition: 0.3s ease;
+             margin-top: 5%;
         }
-        .appl{
-            margin-top: 5%;
+        
         }
         .btn:hover {
             background-color: #8b2424;
